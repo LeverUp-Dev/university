@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\bin\Debug\net6.0\test0.exe
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\bin\Debug\net6.0\test0.deps.json
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\bin\Debug\net6.0\test0.runtimeconfig.json
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\bin\Debug\net6.0\test0.dll
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\bin\Debug\net6.0\test0.pdb
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\obj\Debug\net6.0\test0.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\obj\Debug\net6.0\test0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\obj\Debug\net6.0\test0.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\obj\Debug\net6.0\test0.AssemblyInfo.cs
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\obj\Debug\net6.0\test0.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\obj\Debug\net6.0\test0.dll
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\obj\Debug\net6.0\refint\test0.dll
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\obj\Debug\net6.0\test0.pdb
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\obj\Debug\net6.0\test0.genruntimeconfig.cache
+C:\Users\ododo\Desktop\github\university\c#\test0\test0\obj\Debug\net6.0\ref\test0.dll
