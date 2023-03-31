@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\github\university\c#\days\days\bin\Debug\net6.0\days.exe
+C:\Users\ododo\Desktop\github\university\c#\days\days\bin\Debug\net6.0\days.deps.json
+C:\Users\ododo\Desktop\github\university\c#\days\days\bin\Debug\net6.0\days.runtimeconfig.json
+C:\Users\ododo\Desktop\github\university\c#\days\days\bin\Debug\net6.0\days.dll
+C:\Users\ododo\Desktop\github\university\c#\days\days\bin\Debug\net6.0\days.pdb
+C:\Users\ododo\Desktop\github\university\c#\days\days\obj\Debug\net6.0\days.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\github\university\c#\days\days\obj\Debug\net6.0\days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\github\university\c#\days\days\obj\Debug\net6.0\days.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\days\days\obj\Debug\net6.0\days.AssemblyInfo.cs
+C:\Users\ododo\Desktop\github\university\c#\days\days\obj\Debug\net6.0\days.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\days\days\obj\Debug\net6.0\days.dll
+C:\Users\ododo\Desktop\github\university\c#\days\days\obj\Debug\net6.0\refint\days.dll
+C:\Users\ododo\Desktop\github\university\c#\days\days\obj\Debug\net6.0\days.pdb
+C:\Users\ododo\Desktop\github\university\c#\days\days\obj\Debug\net6.0\days.genruntimeconfig.cache
+C:\Users\ododo\Desktop\github\university\c#\days\days\obj\Debug\net6.0\ref\days.dll
