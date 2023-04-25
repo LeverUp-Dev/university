@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\obj\Debug\net6.0\5Number.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\obj\Debug\net6.0\5Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\obj\Debug\net6.0\5Number.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\obj\Debug\net6.0\5Number.AssemblyInfo.cs
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\obj\Debug\net6.0\5Number.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\bin\Debug\net6.0\5Number.exe
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\bin\Debug\net6.0\5Number.deps.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\bin\Debug\net6.0\5Number.runtimeconfig.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\bin\Debug\net6.0\5Number.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\bin\Debug\net6.0\5Number.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\obj\Debug\net6.0\5Number.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\obj\Debug\net6.0\refint\5Number.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\obj\Debug\net6.0\5Number.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\obj\Debug\net6.0\5Number.genruntimeconfig.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\5Number\obj\Debug\net6.0\ref\5Number.dll

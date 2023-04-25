@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\bin\Debug\net6.0\PiR2&2Pi2R.exe
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\bin\Debug\net6.0\PiR2&2Pi2R.deps.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\bin\Debug\net6.0\PiR2&2Pi2R.runtimeconfig.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\bin\Debug\net6.0\PiR2&2Pi2R.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\bin\Debug\net6.0\PiR2&2Pi2R.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2Pi2R.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2Pi2R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2Pi2R.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2Pi2R.AssemblyInfo.cs
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2Pi2R.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2Pi2R.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\refint\PiR2&2Pi2R.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2Pi2R.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2Pi2R.genruntimeconfig.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\ref\PiR2&2Pi2R.dll

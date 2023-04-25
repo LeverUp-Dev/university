@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\bin\Debug\net6.0\Season.exe
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\bin\Debug\net6.0\Season.deps.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\bin\Debug\net6.0\Season.runtimeconfig.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\bin\Debug\net6.0\Season.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\bin\Debug\net6.0\Season.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\obj\Debug\net6.0\Season.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\obj\Debug\net6.0\Season.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\obj\Debug\net6.0\Season.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\obj\Debug\net6.0\Season.AssemblyInfo.cs
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\obj\Debug\net6.0\Season.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\obj\Debug\net6.0\Season.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\obj\Debug\net6.0\refint\Season.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\obj\Debug\net6.0\Season.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\obj\Debug\net6.0\Season.genruntimeconfig.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Season\obj\Debug\net6.0\ref\Season.dll

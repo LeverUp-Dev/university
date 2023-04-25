@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\bin\Debug\net6.0\AntNumber.exe
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\bin\Debug\net6.0\AntNumber.deps.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\bin\Debug\net6.0\AntNumber.runtimeconfig.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\bin\Debug\net6.0\AntNumber.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\bin\Debug\net6.0\AntNumber.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\obj\Debug\net6.0\AntNumber.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\obj\Debug\net6.0\AntNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\obj\Debug\net6.0\AntNumber.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\obj\Debug\net6.0\AntNumber.AssemblyInfo.cs
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\obj\Debug\net6.0\AntNumber.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\obj\Debug\net6.0\AntNumber.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\obj\Debug\net6.0\refint\AntNumber.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\obj\Debug\net6.0\AntNumber.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\obj\Debug\net6.0\AntNumber.genruntimeconfig.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\AntNumber\obj\Debug\net6.0\ref\AntNumber.dll

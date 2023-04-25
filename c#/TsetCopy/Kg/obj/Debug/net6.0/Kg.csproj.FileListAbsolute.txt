@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\bin\Debug\net6.0\Kg.exe
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\bin\Debug\net6.0\Kg.deps.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\bin\Debug\net6.0\Kg.runtimeconfig.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\bin\Debug\net6.0\Kg.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\bin\Debug\net6.0\Kg.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\obj\Debug\net6.0\Kg.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\obj\Debug\net6.0\Kg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\obj\Debug\net6.0\Kg.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\obj\Debug\net6.0\Kg.AssemblyInfo.cs
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\obj\Debug\net6.0\Kg.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\obj\Debug\net6.0\Kg.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\obj\Debug\net6.0\refint\Kg.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\obj\Debug\net6.0\Kg.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\obj\Debug\net6.0\Kg.genruntimeconfig.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\Kg\obj\Debug\net6.0\ref\Kg.dll

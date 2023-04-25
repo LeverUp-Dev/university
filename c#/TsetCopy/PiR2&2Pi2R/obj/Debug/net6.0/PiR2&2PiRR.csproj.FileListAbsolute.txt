@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2PiRR.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2PiRR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2PiRR.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2PiRR.AssemblyInfo.cs
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2PiRR.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\bin\Debug\net6.0\PiR2&2PiRR.exe
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\bin\Debug\net6.0\PiR2&2PiRR.deps.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\bin\Debug\net6.0\PiR2&2PiRR.runtimeconfig.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\bin\Debug\net6.0\PiR2&2PiRR.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\bin\Debug\net6.0\PiR2&2PiRR.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2PiRR.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\refint\PiR2&2PiRR.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2PiRR.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\PiR2&2PiRR.genruntimeconfig.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\PiR2&2Pi2R\obj\Debug\net6.0\ref\PiR2&2PiRR.dll

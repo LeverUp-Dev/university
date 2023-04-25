@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\bin\Debug\net6.0\TsetCopy.exe
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\bin\Debug\net6.0\TsetCopy.deps.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\bin\Debug\net6.0\TsetCopy.runtimeconfig.json
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\bin\Debug\net6.0\TsetCopy.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\bin\Debug\net6.0\TsetCopy.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\obj\Debug\net6.0\TsetCopy.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\obj\Debug\net6.0\TsetCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\obj\Debug\net6.0\TsetCopy.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\obj\Debug\net6.0\TsetCopy.AssemblyInfo.cs
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\obj\Debug\net6.0\TsetCopy.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\obj\Debug\net6.0\TsetCopy.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\obj\Debug\net6.0\refint\TsetCopy.dll
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\obj\Debug\net6.0\TsetCopy.pdb
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\obj\Debug\net6.0\TsetCopy.genruntimeconfig.cache
+C:\Users\ododo\Desktop\github\university\c#\TsetCopy\TsetCopy\obj\Debug\net6.0\ref\TsetCopy.dll
