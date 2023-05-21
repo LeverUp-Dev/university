@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\bin\Debug\net6.0\Rotto.exe
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\bin\Debug\net6.0\Rotto.deps.json
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\bin\Debug\net6.0\Rotto.runtimeconfig.json
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\bin\Debug\net6.0\Rotto.dll
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\bin\Debug\net6.0\Rotto.pdb
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\obj\Debug\net6.0\Rotto.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\obj\Debug\net6.0\Rotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\obj\Debug\net6.0\Rotto.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\obj\Debug\net6.0\Rotto.AssemblyInfo.cs
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\obj\Debug\net6.0\Rotto.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\obj\Debug\net6.0\Rotto.dll
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\obj\Debug\net6.0\refint\Rotto.dll
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\obj\Debug\net6.0\Rotto.pdb
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\obj\Debug\net6.0\Rotto.genruntimeconfig.cache
+C:\Users\ododo\Desktop\github\university\c#\Semester\Rotto\obj\Debug\net6.0\ref\Rotto.dll

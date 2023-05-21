@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\bin\Debug\net6.0\Week12Study9.exe
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\bin\Debug\net6.0\Week12Study9.deps.json
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\bin\Debug\net6.0\Week12Study9.runtimeconfig.json
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\bin\Debug\net6.0\Week12Study9.dll
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\bin\Debug\net6.0\Week12Study9.pdb
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\obj\Debug\net6.0\Week12Study9.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\obj\Debug\net6.0\Week12Study9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\obj\Debug\net6.0\Week12Study9.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\obj\Debug\net6.0\Week12Study9.AssemblyInfo.cs
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\obj\Debug\net6.0\Week12Study9.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\obj\Debug\net6.0\Week12Study9.dll
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\obj\Debug\net6.0\refint\Week12Study9.dll
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\obj\Debug\net6.0\Week12Study9.pdb
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\obj\Debug\net6.0\Week12Study9.genruntimeconfig.cache
+C:\Users\ododo\Desktop\github\university\c#\Semester\Week12Study9\obj\Debug\net6.0\ref\Week12Study9.dll
