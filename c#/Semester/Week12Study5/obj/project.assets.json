@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Week12Study4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Week12Study4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Week12Study4.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Week12Study4/1.0.0": {
+      "type": "project",
+      "path": "../Week12Study4/Week12Study4.csproj",
+      "msbuildProject": "../Week12Study4/Week12Study4.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Week12Study4 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ododo\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ododo\\Desktop\\github\\university\\c#\\Semester\\Week12Study4\\Week12Study4.csproj": {
+              "projectPath": "C:\\Users\\ododo\\Desktop\\github\\university\\c#\\Semester\\Week12Study4\\Week12Study4.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
