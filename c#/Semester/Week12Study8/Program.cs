@@ -2,25 +2,27 @@
 {
     private static void Main(string[] args)
     {
-        bool isSoSu = true;
-        Console.Write("정수 입력: ");
-        int num = int.Parse(Console.ReadLine());
+        int inputNum = int.Parse(Console.ReadLine());
+        bool isPrime = true;
+        Console.WriteLine(CheckPrime(inputNum, isPrime));
+    }
 
-        for (int i = 2; i < num; i++)//2부터 n-1까지 나누어서 떨어지면 소수 아님
+    private static bool CheckPrime(int inputNum, bool isPrime)
+    {
+        if(inputNum >= 2)
         {
-            if(num%i == 0)
+            for(int i = 2; i <= inputNum-1; i++)
             {
-                isSoSu = false;
+                if((inputNum%i) == 0)
+                {
+                    return false;
+                }
             }
-        }
-
-        if (!isSoSu || num < 2)//입력된 정수가 1이하 이거나 2와 n-1로까지의 수로 나누어 질 때 
-        {
-            Console.WriteLine("소수가 아닙니다.");
+            return true;
         }
         else
         {
-            Console.WriteLine("소수입니다.");
-        }                       
+            return false;
+        }
     }
 }

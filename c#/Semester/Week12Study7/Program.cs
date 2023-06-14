@@ -34,7 +34,5 @@ internal class Program
         {
             return false;
         }
-
-        return true;
     }
 }
